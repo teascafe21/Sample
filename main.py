@@ -1,1 +1,4 @@
-# chatGPT宛のメッセージです。これが見れているか？
+import tkinter as tk
+
+root = tk.Tk()
+root.mainloop()
