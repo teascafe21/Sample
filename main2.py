@@ -5,7 +5,7 @@ root = tk.Tk()
 root.geometry("300x200")
 
 # ボタンの作成
-button = tk.Button(root, text="クリックしてください")
+button = tk2.Button(root, text="クリックしてください")
 
 # ボタンの配置
 button.pack()
